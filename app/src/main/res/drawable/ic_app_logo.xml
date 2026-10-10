@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <!-- House Roof Outline -->
+  <path
+      android:pathData="M16,48 L54,18 L92,48 L84,54 L54,30 L24,54 Z"
+      android:fillColor="#10B981"/>
+  <!-- House Chimney -->
+  <path
+      android:pathData="M76,24 L84,18 L84,36 L76,30 Z"
+      android:fillColor="#059669"/>
+  <!-- Green Shield Leaf Base -->
+  <path
+      android:pathData="M30,58 C30,78 54,92 54,92 C54,92 78,78 78,58 C78,46 66,40 54,40 C42,40 30,46 30,58 Z"
+      android:fillColor="#D1FAE5"
+      android:strokeColor="#10B981"
+      android:strokeWidth="3"/>
+  <!-- Cooking Pot Body -->
+  <path
+      android:pathData="M36,62 L72,62 C74,62 76,64 76,66 L76,76 C76,82 70,86 54,86 C38,86 32,82 32,76 L32,66 C32,64 34,62 36,62 Z"
+      android:fillColor="#0F172A"/>
+  <!-- Pot Lid -->
+  <path
+      android:pathData="M44,56 L64,56 C66,56 68,58 68,60 L40,60 C40,58 42,56 44,56 Z"
+      android:fillColor="#1E293B"/>
+  <path
+      android:pathData="M52,52 L56,52 L56,56 L52,56 Z"
+      android:fillColor="#334155"/>
+  <!-- Flame -->
+  <path
+      android:pathData="M54,78 C58,74 60,70 58,66 C56,64 54,64 52,66 C50,68 48,72 50,76 C52,78 54,78 54,78 Z"
+      android:fillColor="#EF4444"/>
+  <path
+      android:pathData="M54,76 C56,73 57,71 56,69 C55,68 54,68 53,69 C52,70 51,72 52,74 C53,76 54,76 54,76 Z"
+      android:fillColor="#F59E0B"/>
+  <!-- Steam -->
+  <path
+      android:pathData="M48,48 C46,44 50,40 48,36"
+      android:strokeColor="#10B981"
+      android:strokeWidth="2.5"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M60,48 C62,44 58,40 60,36"
+      android:strokeColor="#059669"
+      android:strokeWidth="2.5"
+      android:strokeLineCap="round"/>
+</vector>
